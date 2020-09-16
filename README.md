@@ -17,7 +17,7 @@ Live real-time avatars from your webcam in the browser. No special hardware or i
 3. A new exaggeration factor to get those damn muppets to open their mouths!
 4. Options to switch between avatars, including newly generated StyleGAN faces, as inspired by Avatarify, of:
 - People: https://thispersondoesnotexist.com
-- Men, Women and Children: https://fakeface.rest
+- Man, woman, boy, girl: https://fakeface.rest
 - Waifus! https://www.thiswaifudoesnotexist.net
 - Forsunas! https://thisfursonadoesnotexist.com
 - Muppets! https://thismuppetdoesnotexist.com (made especially for this with Doron Adler @norod78)
