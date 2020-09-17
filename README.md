@@ -9,9 +9,9 @@ Live real-time avatars from your webcam in the browser. No special hardware or i
 3. Webcam for Google Colab over Websocket: https://github.com/a2kiti/webCamGoogleColab 
 
 ### In this repository you will find: 
-1. Colab for live real-time talking head deep-fakes from your webcam. 
-2. Colab for creating talking head deep-fakes (VoxCeleb model) from YouTube or other videos. 
-3. Colab for creating full body deep-fakes (Tai chi and fashion models) from YouTube or other videos. 
+1. [Colab](https://colab.research.google.com/github/eyaler/avatars4all/blob/master/fomm_live.ipynb) for live real-time talking head deep-fakes from your webcam. ([j.mp/cam2head](https://j.mp/cam2head))
+2. [Colab](https://colab.research.google.com/github/eyaler/avatars4all/blob/master/fomm_bibi.ipynb) for creating talking head deep-fakes (VoxCeleb model) from YouTube or other videos. ([j.mp/vid2head](https://j.mp/vid2head))
+3. [Colab](https://colab.research.google.com/github/eyaler/avatars4all/blob/master/fomm_fufu.ipynb) for creating full body deep-fakes (Tai chi and fashion models) from YouTube or other videos. ([j.mp/vid2body](https://j.mp/vid2body))
 
 ### Features:
 1. The fastest purely online solution I am aware of for live real-time first-order-motion-model avatars from your webcam.
