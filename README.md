@@ -22,7 +22,7 @@ Live real-time avatars from your webcam in the browser. No special hardware or i
 - Man, woman, boy, girl: https://fakeface.rest
 - Waifus! https://www.thiswaifudoesnotexist.net
 - Forsunas! https://thisfursonadoesnotexist.com
-- Muppets! https://thismuppetdoesnotexist.com (made especially for this with Doron Adler @norod78)
+- Muppets! https://thismuppetdoesnotexist.com (made especially for this with Doron Adler [@norod78](https://twitter.com/norod78))
 5. Smart auto-pad/crop/resize to the head or body, for images and for offline videos, tuned for best results.
 6. Full control of model parameters as well as zoom and buffering options in the GUI.
 7. Upload your own images and videos or pull them from the web including from YouTube, etc., and optionally trim videos.
@@ -38,3 +38,14 @@ Live real-time avatars from your webcam in the browser. No special hardware or i
 5. https://colab.research.google.com/github/thefonseca/colabrtc/blob/master/examples/colabrtc.ipynb 
 6. https://github.com/l4rz/first-order-model/tree/master/webrtc 
 7. https://gist.github.com/myagues/aac0c597f8ad0fa7ebe7d017b0c5603b
+
+### Workshops and tutorials
+- 2020-05 [Generative Jam](https://www.facebook.com/events/257984605579120/?post_id=243005947076986)
+- 2020-06 [Убежище / Suoja / Shelter Festival](http://suojashelter.tilda.ws/eyal_gruss)
+- 2020-06 [Open Data Science Conference (ODSC)](https://aiplus.odsc.com/courses/avatars-in-zoom-for-all)
+- 2020-07 [47th South Africa National Arts Festival (NAF)](https://nationalartsfestival.co.za/show/avatars-in-zoom-for-all-a-hands-on-tutorial)
+- 2020-07 [16th Athens Digital Arts Festival (ADAF)](https://online.adaf.gr/stm-zoom-webinar/adaf-online-workshop-avatars-in-zoom-eyal-gruss-il)
+- 2020-09 [ReclaimFutures Conference](https://reclaimfutures.org/rf2020/events/avatars-in-zoom.html)
+- 2020-10 [/’fu:bar/ Glitch Art Fest̯ivalͦ](https://fubar.space/#zoomavatars)
+- 2020-10 [26th International Symposium on Electronic Art (ISEA)](https://isea2020.isea-international.org/isea2020-online-program)
+- 2020-11 [30th Electronic Visualisation & the Arts London (EVA)](http://www.eva-london.org/eva-london-2020)
