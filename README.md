@@ -1,5 +1,5 @@
 # avatars4all
-Live real-time avatars from your webcam in the browser. No special hardware or installation needed. A pure Google Colab implementation for First-order-motion-model and Avatarify. 
+Live real-time avatars from your webcam in the browser. No dedicawted hardware or software installation needed. A pure Google Colab implementation for First-order-motion-model and Avatarify. 
 
 ![GUI](gonzo_gui.png)
 
