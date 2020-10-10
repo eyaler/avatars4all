@@ -31,7 +31,7 @@ Live real-time avatars from your webcam in the browser. No dedicawted hardware o
 8. Visualization of facial landmarks and their alignment between source and target.
 9. Download videos with original audio and framerate.
 10. One click operation with Runtime -> Run all.
-11. Optional Wav2Lip post processing after head animation.
+11. Optional Wav2Lip post processing following head animation.
  
 ### Reference implementations:
 1. https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb 
