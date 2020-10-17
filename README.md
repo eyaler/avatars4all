@@ -8,12 +8,14 @@ Live real-time avatars from your webcam in the browser. No dedicawted hardware o
 2. Avatarify, https://github.com/alievk/avatarify 
 3. Webcam for Google Colab over Websocket, https://github.com/a2kiti/webCamGoogleColab 
 4. Wav2Lip, Accurately Lip-sync Videos to Any Speech, http://bhaasha.iiit.ac.in/lipsync
+5. Liquid Warping GAN, https://svip-lab.github.io/project/impersonator
 
 ### In this repository you will find: 
 1. [Colab](https://colab.research.google.com/github/eyaler/avatars4all/blob/master/fomm_live.ipynb) for live real-time talking head deep-fakes from your webcam. ([j.mp/cam2head](https://j.mp/cam2head))
 2. [Colab](https://colab.research.google.com/github/eyaler/avatars4all/blob/master/fomm_bibi.ipynb) for creating talking head deep-fakes (VoxCeleb model) from YouTube or other videos. ([j.mp/vid2head](https://j.mp/vid2head))
 3. [Colab](https://colab.research.google.com/github/eyaler/avatars4all/blob/master/fomm_fufu.ipynb) for creating full body deep-fakes (Tai chi and fashion models) from YouTube or other videos. ([j.mp/vid2body](https://j.mp/vid2body))
-4. [Colab](https://github.com/eyaler/avatars4all/blob/master/melaflefon.ipynb) for creating lip sync deep-fakes based on audio. ([j.mp/wav2lip](https://j.mp/wav2lip))
+4. [Colab](https://github.com/eyaler/avatars4all/blob/master/ganozli.ipynb) for creating full body deep-fakes (impersonator model) from YouTube or other videos. ([j.mp/wav2lip](https://j.mp/vid2act))
+5. [Colab](https://github.com/eyaler/avatars4all/blob/master/melaflefon.ipynb) for creating lip sync deep-fakes based on audio. ([j.mp/wav2lip](https://j.mp/wav2lip))
 
 ### Features:
 1. The fastest purely online solution I am aware of for live real-time first-order-motion-model avatars from your webcam.
@@ -42,6 +44,7 @@ Live real-time avatars from your webcam in the browser. No dedicawted hardware o
 6. https://github.com/l4rz/first-order-model/tree/master/webrtc 
 7. https://gist.github.com/myagues/aac0c597f8ad0fa7ebe7d017b0c5603b
 8. https://colab.research.google.com/drive/1tZpDWXz49W6wDcTprANRGLo2D_EbD5J8
+9. https://colab.research.google.com/github/svip-lab/impersonator/blob/master/impersonator.ipynb
 
 ### Workshops and tutorials
 - 2020-05 [Generative Jam](https://www.facebook.com/events/257984605579120/?post_id=243005947076986)
