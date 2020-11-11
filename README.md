@@ -14,7 +14,7 @@ Live real-time avatars from your webcam in the browser. No dedicawted hardware o
 1. [Colab](https://colab.research.google.com/github/eyaler/avatars4all/blob/master/fomm_live.ipynb) for live real-time talking head deep-fakes from your webcam. ([j.mp/cam2head](https://j.mp/cam2head))
 2. [Colab](https://colab.research.google.com/github/eyaler/avatars4all/blob/master/fomm_bibi.ipynb) for creating talking head deep-fakes (VoxCeleb model) from YouTube or other videos. ([j.mp/vid2head](https://j.mp/vid2head))
 3. [Colab](https://colab.research.google.com/github/eyaler/avatars4all/blob/master/fomm_fufu.ipynb) for creating full body deep-fakes (Tai chi and fashion models) from YouTube or other videos. ([j.mp/vid2body](https://j.mp/vid2body))
-4. [Colab](https://github.com/eyaler/avatars4all/blob/master/ganozli.ipynb) for creating full body deep-fakes (impersonator model) from YouTube or other videos. ([j.mp/wav2lip](https://j.mp/vid2act))
+4. [Colab](https://github.com/eyaler/avatars4all/blob/master/ganozli.ipynb) for creating full body deep-fakes (impersonator model) from YouTube or other videos. ([j.mp/vid2act](https://j.mp/vid2act))
 5. [Colab](https://github.com/eyaler/avatars4all/blob/master/melaflefon.ipynb) for creating lip sync deep-fakes based on audio. ([j.mp/wav2lip](https://j.mp/wav2lip))
 
 ### Features:
