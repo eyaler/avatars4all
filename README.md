@@ -55,5 +55,5 @@ Live real-time avatars from your webcam in the browser. No dedicawted hardware o
 - 2020-09 [ReclaimFutures Conference](https://reclaimfutures.org/rf2020/events/avatars-in-zoom.html)
 - 2020-10 [/’fu:bar/ Glitch Art Fest̯ivalͦ](https://fubar.space/#zoomavatars)
 - 2020-10 [26th International Symposium on Electronic Art (ISEA)](https://isea2020.isea-international.org/isea2020-online-program)
-- 2020-11 [30th Electronic Visualisation & the Arts London (EVA)](http://www.eva-london.org/eva-london-2020)
-- 2020-11 [18th Piksel Festival for Electronic Art and Free Technologies](https://20.piksel.no)
+- 2020-11 [30th Electronic Visualisation & the Arts London (EVA)](https://www.eventbrite.com/e/avatars-in-zoom-for-all-with-eyal-gruss-tickets-129015874955)
+- 2020-11 [18th Piksel Festival for Electronic Art and Free Technologies](https://20.piksel.no/2020/11/21/avatars-in-zoom-for-all-a-hands-on-tutorial)
