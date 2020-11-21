@@ -46,7 +46,7 @@ Live real-time avatars from your webcam in the browser. No dedicawted hardware o
 8. https://colab.research.google.com/drive/1tZpDWXz49W6wDcTprANRGLo2D_EbD5J8
 9. https://colab.research.google.com/github/svip-lab/impersonator/blob/master/impersonator.ipynb
 
-### Workshops and tutorials
+### Workshops, tutorials and talks
 - 2020-05 [Generative Jam](https://www.facebook.com/events/257984605579120/?post_id=243005947076986)
 - 2020-06 [Убежище / Suoja / Shelter Festival](http://suojashelter.tilda.ws/eyal_gruss)
 - 2020-06 [Open Data Science Conference (ODSC)](https://aiplus.odsc.com/courses/avatars-in-zoom-for-all)
@@ -55,5 +55,6 @@ Live real-time avatars from your webcam in the browser. No dedicawted hardware o
 - 2020-09 [ReclaimFutures Conference](https://reclaimfutures.org/rf2020/events/avatars-in-zoom.html)
 - 2020-10 [/’fu:bar/ Glitch Art Fest̯ivalͦ](https://fubar.space/#zoomavatars)
 - 2020-10 [26th International Symposium on Electronic Art (ISEA)](https://isea2020.isea-international.org/isea2020-online-program)
+- 2020-11 [Technarte Art & Technology International Conference](https://technarte.org/en/the-conference/technarte-virtual-2020)
 - 2020-11 [30th Electronic Visualisation & the Arts London (EVA)](https://www.eventbrite.com/e/avatars-in-zoom-for-all-with-eyal-gruss-tickets-129015874955)
 - 2020-11 [18th Piksel Festival for Electronic Art and Free Technologies](https://20.piksel.no/2020/11/21/avatars-in-zoom-for-all-a-hands-on-tutorial)
