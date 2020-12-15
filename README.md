@@ -45,6 +45,7 @@ Live real-time avatars from your webcam in the browser. No dedicated hardware or
 7. https://gist.github.com/myagues/aac0c597f8ad0fa7ebe7d017b0c5603b
 8. https://colab.research.google.com/drive/1tZpDWXz49W6wDcTprANRGLo2D_EbD5J8
 9. https://colab.research.google.com/github/svip-lab/impersonator/blob/master/impersonator.ipynb
+10. https://colab.research.google.com/drive/1bwUnj-9NnJA2EMr7eWO4I45UuBtKudg_
 
 ### Workshops, tutorials and talks
 - 2020-05 [Generative Jam](https://www.facebook.com/events/257984605579120/?post_id=243005947076986)
