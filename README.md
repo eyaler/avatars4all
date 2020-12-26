@@ -11,6 +11,7 @@ Live real-time avatars from your webcam in the browser. No dedicated hardware or
 5. Liquid Warping GAN (Impersonator), https://svip-lab.github.io/project/impersonator
 6. Liquid Warping GAN (Impersonator++), https://www.impersonator.org/work/impersonator-plus-plus.html
 7. U^2-Net, https://github.com/NathanUA/U-2-Net
+8. MODNet, https://github.com/ZHKKKe/MODNet
 
 ### In this repository you will find: 
 1. [Colab](https://colab.research.google.com/github/eyaler/avatars4all/blob/master/fomm_live.ipynb) for live real-time talking head deep-fakes from your webcam. ([j.mp/cam2head](https://j.mp/cam2head))
