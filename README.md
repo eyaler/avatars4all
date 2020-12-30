@@ -18,8 +18,9 @@ Live real-time avatars from your webcam in the browser. No dedicated hardware or
 2. [Colab](https://colab.research.google.com/github/eyaler/avatars4all/blob/master/fomm_bibi.ipynb) for creating talking head deep-fakes (VoxCeleb model) from YouTube or other videos. ([j.mp/vid2head](https://j.mp/vid2head))
 3. [Colab](https://colab.research.google.com/github/eyaler/avatars4all/blob/master/fomm_fufu.ipynb) for creating full body deep-fakes (Tai chi and fashion models) from YouTube or other videos. ([j.mp/vid2body](https://j.mp/vid2body))
 4. [Colab](https://github.com/eyaler/avatars4all/blob/master/ganozli.ipynb) for creating full body deep-fakes (impersonator model) from YouTube or other videos. ([j.mp/vid2act](https://j.mp/vid2act))
-5. [Colab](https://github.com/eyaler/avatars4all/blob/master/melaflefon.ipynb) for creating lip sync deep-fakes based on audio. ([j.mp/wav2lip](https://j.mp/wav2lip))
-6. [Colab](https://github.com/eyaler/avatars4all/blob/master/yarok.ipynb) Green screen effect for video with optional background video. ([j.mp/vid2green](https://j.mp/vid2green)))
+5. [Colab](https://github.com/eyaler/avatars4all/blob/master/ganivut.ipynb) for creating full body deep-fakes (impersonator++ model) from YouTube or other videos. ([j.mp/vid2warp](https://j.mp/vid2warp))
+6. [Colab](https://github.com/eyaler/avatars4all/blob/master/melaflefon.ipynb) for creating lip sync deep-fakes based on audio. ([j.mp/wav2lip](https://j.mp/wav2lip))
+7. [Colab](https://github.com/eyaler/avatars4all/blob/master/yarok.ipynb) Green screen effect for video with optional background video. ([j.mp/vid2green](https://j.mp/vid2green)))
 
 ### Features:
 1. The fastest purely online solution I am aware of for live real-time first-order-motion-model avatars from your webcam.
