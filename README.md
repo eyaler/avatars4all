@@ -26,19 +26,20 @@ Live real-time avatars from your webcam in the browser. No dedicated hardware or
 1. The fastest purely online solution I am aware of for live real-time first-order-motion-model avatars from your webcam.
 2. A new auto-calibration mode that works in real-time!
 3. A new exaggeration factor to get those damn muppets to open their mouths!
-4. Options to switch between avatars, including newly generated StyleGAN faces, as inspired by Avatarify, of:
+4. Drag and drop images on the GUI to upload new avatars!
+5. Options to switch between avatars, including newly generated StyleGAN faces, as inspired by Avatarify, of:
 - People: https://thispersondoesnotexist.com
 - Man, woman, boy, girl: https://fakeface.rest
 - Waifus! https://www.thiswaifudoesnotexist.net
 - Forsunas! https://thisfursonadoesnotexist.com
 - Muppets! https://thismuppetdoesnotexist.com (made especially for this with Doron Adler [@norod78](https://twitter.com/norod78))
-5. Smart auto-pad/crop/resize to the head or body, for images and for offline videos, tuned for best results.
-6. Full control of model parameters as well as zoom and buffering options in the GUI.
-7. Upload your own images and videos or pull them from the web including from YouTube, etc., and optionally trim videos.
-8. Visualization of facial landmarks and their alignment between source and target.
-9. Download videos with original audio and framerate.
-10. One click operation with Runtime -> Run all.
-11. Optional Wav2Lip post processing following head animation.
+6. Smart auto-pad/crop/resize to the head or body, for images and for offline videos, tuned for best results.
+7. Full control of model parameters as well as zoom and buffering options in the GUI.
+8. Upload your own images and videos or pull them from the web including from YouTube, etc., and optionally trim videos.
+9. Visualization of facial landmarks and their alignment between source and target.
+10. Download videos with original audio and framerate.
+11. One click operation with Runtime -> Run all.
+12. Optional Wav2Lip post processing following head animation.
  
 ### Reference implementations:
 1. https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb 
