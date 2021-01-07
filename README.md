@@ -52,6 +52,7 @@ Live real-time avatars from your webcam in the browser. No dedicated hardware or
 8. https://colab.research.google.com/drive/1tZpDWXz49W6wDcTprANRGLo2D_EbD5J8
 9. https://colab.research.google.com/github/svip-lab/impersonator/blob/master/impersonator.ipynb
 10. https://colab.research.google.com/drive/1bwUnj-9NnJA2EMr7eWO4I45UuBtKudg_
+11. https://terryky.github.io/tfjs_webgl_app/face_landmark
 
 ### Workshops, tutorials and talks
 - 2020-05 [Generative Jam](https://www.facebook.com/events/257984605579120/?post_id=243005947076986)
@@ -65,3 +66,4 @@ Live real-time avatars from your webcam in the browser. No dedicated hardware or
 - 2020-11 [Technarte Art & Technology International Conference](https://technarte.org/en/the-conference/technarte-virtual-2020)
 - 2020-11 [30th Electronic Visualisation & the Arts London (EVA)](https://www.eventbrite.com/e/avatars-in-zoom-for-all-with-eyal-gruss-tickets-129015874955)
 - 2020-11 [18th Piksel Festival for Electronic Art and Free Technologies](https://20.piksel.no/2020/11/21/avatars-in-zoom-for-all-a-hands-on-tutorial)
+- 2021-01 [34th Stuttgarter Filmwinter Festival for Expanded Media](https://filmwinter.de/en/events/avatars-zoom-all)
