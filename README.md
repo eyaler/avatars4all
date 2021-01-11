@@ -10,8 +10,10 @@ Live real-time avatars from your webcam in the browser. No dedicated hardware or
 4. Wav2Lip, Accurately Lip-sync Videos to Any Speech, http://bhaasha.iiit.ac.in/lipsync
 5. Liquid Warping GAN (Impersonator), https://svip-lab.github.io/project/impersonator
 6. Liquid Warping GAN (Impersonator++), https://www.impersonator.org/work/impersonator-plus-plus.html
-7. U^2-Net, https://github.com/NathanUA/U-2-Net
-8. MODNet, https://github.com/ZHKKKe/MODNet
+7. pyAudioAnalysis, https://github.com/tyiannak/pyAudioAnalysis
+8. pyannote-audio, https://github.com/pyannote/pyannote-audio
+9. U^2-Net, https://github.com/NathanUA/U-2-Net
+10. MODNet, https://github.com/ZHKKKe/MODNet
 
 ### In this repository you will find: 
 1. [Colab](https://colab.research.google.com/github/eyaler/avatars4all/blob/master/fomm_live.ipynb) for live real-time talking head deep-fakes from your webcam. ([j.mp/cam2head](https://j.mp/cam2head))
@@ -40,6 +42,7 @@ Live real-time avatars from your webcam in the browser. No dedicated hardware or
 10. Download videos with original audio and framerate.
 11. One click operation with Runtime -> Run all.
 12. Optional Wav2Lip post processing following head animation.
+13. Combining Wav2Lip with speaker diarization for automatic skit creation ("Wav2Skit").
  
 ### Reference implementations:
 1. https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb 
