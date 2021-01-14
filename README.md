@@ -39,7 +39,7 @@ Live real-time avatars from your webcam in the browser. No dedicated hardware or
 7. Full control of model parameters as well as zoom and buffering options in the GUI.
 8. Upload your own images and videos or pull them from the web including from YouTube, etc., and optionally trim videos.
 9. Visualization of facial landmarks and their alignment between source and target.
-10. Download videos with original audio and framerate.
+10. Download videos with original audio and framerate, and optimized for compatibility.
 11. One click operation with Runtime -> Run all.
 12. Optional Wav2Lip post processing following head animation.
 13. Combining Wav2Lip with speaker diarization for automatic skit creation ("Wav2Skit").
