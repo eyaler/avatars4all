@@ -1,7 +1,7 @@
 # avatars4all
 Live real-time avatars from your webcam in the browser. No dedicated hardware or software installation needed. A pure Google Colab wrapper for live First-order-motion-model, aka Avatarify in the browser. And other Colabs providing an accessible interface for using FOMM, Wav2Lip and Liquid-warping-GAN with your own media and a rich GUI.
 
-![GUI](media/avatars4all.gif)
+![GUI](media/avatars4all.webp)
 
 ### Based on the works: 
 1. First Order Motion Model for Image Animation, https://aliaksandrsiarohin.github.io/first-order-model-website 
