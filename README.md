@@ -28,7 +28,7 @@ Live real-time avatars from your webcam in the browser. No dedicated hardware or
 1. The fastest purely online solution I am aware of for live real-time first-order-motion-model avatars from your webcam.
 2. A new auto-calibration mode that works in real-time!
 3. A new exaggeration factor to get those damn muppets to open their mouths!
-4. Drag and drop images on the GUI to upload new avatars!
+4. Drag and drop local/web images on the GUI to upload new avatars!
 5. Options to switch between avatars, including newly generated StyleGAN faces, as inspired by Avatarify, of:
 - People: https://thispersondoesnotexist.com
 - Man, woman, boy, girl: https://fakeface.rest
