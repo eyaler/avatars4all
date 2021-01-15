@@ -42,7 +42,7 @@ Live real-time avatars from your webcam in the browser. No dedicated hardware or
 10. Download videos with original audio and framerate, and optimized for compatibility.
 11. One click operation with Runtime -> Run all.
 12. Optional Wav2Lip post processing following head animation.
-13. Combining Wav2Lip with speaker diarization for automatic skit creation ("Wav2Skit").
+13. Combining Wav2Lip with speaker diarization for automatic animated skit creation from audio ("Wav2Skit").
  
 ### Reference implementations:
 1. https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb 
