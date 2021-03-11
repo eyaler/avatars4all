@@ -69,5 +69,8 @@ Live real-time avatars from your webcam in the browser. No dedicated hardware or
 - 2020-11 [Technarte Art & Technology International Conference](https://technarte.org/en/the-conference/technarte-virtual-2020)
 - 2020-11 [30th Electronic Visualisation & the Arts London (EVA)](https://www.eventbrite.com/e/avatars-in-zoom-for-all-with-eyal-gruss-tickets-129015874955)
 - 2020-11 [18th Piksel Festival for Electronic Art and Free Technologies](https://20.piksel.no/2020/11/21/avatars-in-zoom-for-all-a-hands-on-tutorial)
+- 2020-12 [IDC Herzliya DataTech](https://www.idc.ac.il/he/schools/economics/undergraduate/pages/data-tech.aspx)
 - 2021-01 [34th Stuttgarter Filmwinter Festival for Expanded Media](https://filmwinter.de/en/events/avatars-zoom-all)
 - 2021-02 [Dorot Haifa Conference for Science Fiction, Fantasy and RPG](https://2021.dorot-con.org.il/events/להיות-כל-אחת-אוואטרים-לכולם)
+- 2021-03 [York University Computational Arts](https://computationalarts.ampd.yorku.ca)
+- 2021-03 [MozFest 2021](https://schedule.mozillafestival.org/session/Q9HKPK-1)
