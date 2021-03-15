@@ -56,6 +56,7 @@ Live real-time avatars from your webcam in the browser. No dedicated hardware or
 9. https://colab.research.google.com/github/svip-lab/impersonator/blob/master/impersonator.ipynb
 10. https://colab.research.google.com/drive/1bwUnj-9NnJA2EMr7eWO4I45UuBtKudg_
 11. https://terryky.github.io/tfjs_webgl_app/face_landmark
+12. https://eyaler.github.io/tfjs_webgl_app/face_landmark
 
 ### Workshops, tutorials and talks
 - 2020-05 [Generative Jam](https://www.facebook.com/events/257984605579120/?post_id=243005947076986)
@@ -73,4 +74,4 @@ Live real-time avatars from your webcam in the browser. No dedicated hardware or
 - 2021-01 [34th Stuttgarter Filmwinter Festival for Expanded Media](https://filmwinter.de/en/events/avatars-zoom-all)
 - 2021-02 [Dorot Haifa Conference for Science Fiction, Fantasy and RPG](https://2021.dorot-con.org.il/events/להיות-כל-אחת-אוואטרים-לכולם)
 - 2021-03 [York University Computational Arts](https://computationalarts.ampd.yorku.ca)
-- 2021-03 [MozFest 2021](https://schedule.mozillafestival.org/session/Q9HKPK-1)
+- 2021-03 [Mozilla Festival 2021](https://schedule.mozillafestival.org/session/Q9HKPK-1)
