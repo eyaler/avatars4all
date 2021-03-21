@@ -73,5 +73,5 @@ Live real-time avatars from your webcam in the browser. No dedicated hardware or
 - 2020-12 [IDC Herzliya DataTech](https://www.idc.ac.il/he/schools/economics/undergraduate/pages/data-tech.aspx)
 - 2021-01 [34th Stuttgarter Filmwinter Festival for Expanded Media](https://filmwinter.de/en/events/avatars-zoom-all)
 - 2021-02 [Dorot Haifa Conference for Science Fiction, Fantasy and RPG](https://2021.dorot-con.org.il/events/להיות-כל-אחת-אוואטרים-לכולם)
-- 2021-03 [York University Computational Arts](https://computationalarts.ampd.yorku.ca)
+- 2021-03 [York University Computational Arts](https://computationalarts.ampd.yorku.ca), [video part 1](https://www.youtube.com/watch?v=UcNc5gFUbKc)
 - 2021-03 [Mozilla Festival 2021](https://schedule.mozillafestival.org/session/Q9HKPK-1)
