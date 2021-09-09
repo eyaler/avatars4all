@@ -2,7 +2,7 @@
 Live real-time avatars from your webcam in the browser. No dedicated hardware or software installation needed. A pure Google Colab wrapper for live First-order-motion-model, aka Avatarify in the browser. And other Colabs providing an accessible interface for using FOMM, Wav2Lip and Liquid-warping-GAN with your own media and a rich GUI.
 
 <p align="center">
-![GUI](media/avatars4all.webp)
+<img src="media/avatars4all.webp" /> 
 </p>
  
 ### Based on the works: 
