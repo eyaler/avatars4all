@@ -36,7 +36,7 @@ Live real-time avatars from your webcam in the browser. No dedicated hardware or
 - Man, woman, boy, girl: https://fakeface.rest
 - Waifus! https://www.thiswaifudoesnotexist.net
 - Forsunas! https://thisfursonadoesnotexist.com
-- Muppets! https://thismuppetdoesnotexist.com (made especially for this with Doron Adler [@norod78](https://twitter.com/norod78))
+- Muppets! https://eyalgruss.com/thismuppetdoesnotexist (made especially for this with Doron Adler [@norod78](https://twitter.com/norod78))
 6. Smart auto-pad/crop/resize to the head or body, for images and for offline videos, tuned for best results.
 7. Full control of model parameters as well as zoom and buffering options in the GUI.
 8. Upload your own images and videos or pull them from the web including from YouTube, etc., and optionally trim videos.
